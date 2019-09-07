@@ -4,6 +4,3 @@
 
 [node name="Camera2D" type="Camera2D" parent="."]
 position = Vector2( 523.773, 303.74 )
-
-[node name="Line2D" type="Line2D" parent="."]
-points = PoolVector2Array( 73.1843, 53.1237, 858.321, 503.792, 647.795, 170.274, 774.111, 178.031, 708.737, 81.6316, 422.864, 96.036 )
